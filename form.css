@@ -1,0 +1,51 @@
+span{
+    padding-top: 10px;
+    float: left;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+h1{
+    margin-bottom:20px ;
+}
+
+input,#formulario{
+    height: 45px;
+    box-sizing: border-box;
+    margin-bottom: 10px; 
+}
+
+#formulario{
+    width: 50%;
+}
+
+#submit{
+    width: 50%;
+    float: right;
+}
+
+input{
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+    width: 70%;
+}
+
+#cadastrar{
+    width: 20%;
+    margin-left: 30px;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: 0;
+    background-color: #555;
+    color: white;
+}
+
+form {
+    text-align: left;  
+}
+
+hr{
+    border: 1px solid rgb(223, 117, 117);;
+}
+
